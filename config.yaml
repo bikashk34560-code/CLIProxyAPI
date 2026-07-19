@@ -354,7 +354,7 @@ openai-compatibility:
     base-url: "https://integrate.api.nvidia.com/v1" 
     disable-cooling: false 
     api-key-entries:
-      - api-key: "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"
+      - api-key: 
     models: 
       - name: "deepseek-ai/deepseek-v4-pro" 
         alias: "claude-opus-4-8[1m]"               
